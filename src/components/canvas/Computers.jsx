@@ -136,8 +136,7 @@ const ComputersCanvas = () => {
   }, []);
 
   return (
-    {isMobile ? <></> : {
-      <Canvas
+    <Canvas
       frameloop='demand'
       shadows
       dpr={[1, 2]}
@@ -159,7 +158,6 @@ const ComputersCanvas = () => {
 
       <Preload all />
     </Canvas>
-    }}
   );
 };
 
