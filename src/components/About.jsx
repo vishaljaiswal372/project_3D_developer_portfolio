@@ -47,7 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
+        Hi, I'm <span className='text-[#6822ff] font-bold'>VISHAL JAISWAL </span> 
+        student at  <span className='text-[#6822ff] font-bold'>Delhi Technological University </span>
+        with a strong passion for web development 
+        and Competitive Programming.
+        I'm a skilled software developer with experience in C++ and
         JavaScript, and expertise in frameworks like React, Node.js, and
         Three.js. I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
