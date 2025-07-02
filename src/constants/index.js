@@ -132,7 +132,7 @@ const experiences = [
     ],
   },
   {
-    web:"https://www.codechef.com/users/vishal04jais",
+    web:"https://www.codechef.com/user/vishajais",
     title: "CodeChef",
     icon: shopify,
     iconBg: "#383E56",
